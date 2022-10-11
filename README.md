@@ -9,7 +9,7 @@
 <h4 align="center">Robox Lua Obfuscator</h4>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Backdoor_Platform-Windows-blue">
+    <img src="https://img.shields.io/badge/Platform-Windows-blue">
     <img src="https://img.shields.io/badge/Version-1.2.0-blue">
     <img src="https://img.shields.io/node/v/e">
 </p>
